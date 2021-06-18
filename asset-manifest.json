@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/list-manager/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/list-manager/static/js/main.1118219d.chunk.js",
+    "main.js.map": "/list-manager/static/js/main.1118219d.chunk.js.map",
+    "runtime-main.js": "/list-manager/static/js/runtime-main.dcd48214.js",
+    "runtime-main.js.map": "/list-manager/static/js/runtime-main.dcd48214.js.map",
+    "static/js/2.ee1654a9.chunk.js": "/list-manager/static/js/2.ee1654a9.chunk.js",
+    "static/js/2.ee1654a9.chunk.js.map": "/list-manager/static/js/2.ee1654a9.chunk.js.map",
+    "static/js/3.cf4ae4cb.chunk.js": "/list-manager/static/js/3.cf4ae4cb.chunk.js",
+    "static/js/3.cf4ae4cb.chunk.js.map": "/list-manager/static/js/3.cf4ae4cb.chunk.js.map",
+    "index.html": "/list-manager/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/list-manager/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ee1654a9.chunk.js.LICENSE.txt": "/list-manager/static/js/2.ee1654a9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/list-manager/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd48214.js",
+    "static/js/2.ee1654a9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1118219d.chunk.js"
+  ]
+}
